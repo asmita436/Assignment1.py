@@ -1,2 +1,2 @@
-# Assignment1.py
+# Assignment1
 program
